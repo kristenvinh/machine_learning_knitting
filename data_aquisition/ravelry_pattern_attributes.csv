@@ -1,0 +1,171 @@
+category,attribute_id,attribute_name,description
+Age / Size / Fit -> Age or Size,10,adult,18 years or over
+Age / Size / Fit -> Age or Size,4,baby,birth to 12  months
+Age / Size / Fit -> Age or Size,8,child (4-12),4 to 12 years
+Age / Size / Fit -> Age or Size,20,doll,scaled for a toy figure
+Age / Size / Fit -> Age or Size,5,newborn,to fit a newborn baby
+Age / Size / Fit -> Age or Size,6,preemie,to fit a premature baby
+Age / Size / Fit -> Age or Size,9,teen (13-17),13 to 17 years
+Age / Size / Fit -> Age or Size,7,toddler (1-3),1 to 3 years
+Age / Size / Fit -> Ease,12,negative ease,"measurements of garment are  smaller than the corresponding body measurements, creating a snugger  fit"
+Age / Size / Fit -> Ease,17,no ease,measurements of  the garment are the same as corresponding body measurments
+Age / Size / Fit -> Ease,257,positive ease,measurements of the garment are  larger than corresponding body measurements
+Age / Size / Fit -> Fit,18,fitted,fits close to the body
+Age / Size / Fit -> Fit,16,maternity fit,extra length and extra width/room is added to the waist to  accomodate a pregnant person's stomach
+Age / Size / Fit -> Fit,19,miniature,designed to fit small-scale items
+Age / Size / Fit -> Fit,11,oversized fit,large amount of positive ease used as a design element.
+Age / Size / Fit -> Fit,13,petite fit,contains instructions for size XS and smaller
+Age / Size / Fit -> Fit,14,plus fit,contains instructions for size XL and larger
+Age / Size / Fit -> Fit,21,tall fit,contains instructions for taller individuals
+Age / Size / Fit -> Gender,2,female,Usually used or worn by females
+Age / Size / Fit -> Gender,1,male,Usually used or worn by males
+Age / Size / Fit -> Gender,3,unisex,Used or worn by anyone
+Colorwork,309,corrugated ribbing,a two-color ribbing in which the knits are worked in one color and the purls in a second color.
+Colorwork,183,illusion/shadow,a knitting and crochet technique that produces an hidden image that is only viewable from an angle.
+Colorwork,184,Intarsia,colorwork technique used to create separate blocks of color and in which each area of color has its own separate length of yarn.
+Colorwork,186,mosaic,"colorwork technique in which the color pattern is made by slipping stitches, with only one color is worked on each row."
+Colorwork,306,other,
+Colorwork,181,stranded,multi-color knitting with all yarn used in the row/round carried across the back of the work.
+Colorwork,311,stripes / colorwork,Alternating sections of two or more colors
+Design Elements,152,A line,"a garment that is fitted around one point, most commonly the shoulders or the waist, and gradually widens out toward the hem giving the impression of a capital letter A."
+Design Elements,312,appliqued / embellished,fabric has a smaller ornament or embellishment applied to its surface for decoration.
+Design Elements,141,asymmetric,designed to be unbalanced on ppposite sides of the finished object.
+Design Elements,139,back fastening,utilizes some type of closure at the back of a garment or piece.
+Design Elements,55,beads / pailettes,embellished with beads or pailettes.
+Design Elements,154,box pleats,a style of please that is actually two pleats facing opposite directions to make a flat surface between pleats; can be reversible.
+Design Elements,308,braids / plaiting,
+Design Elements,136,buttoned,embellished or fastened with buttons or something button-like.
+Design Elements,88,circular yoke,"a yoke with a rounded look which integrates shoulder and neck, with shaping spread evenly around circumference."
+Design Elements,89,convertible,designed to be changed from one style to another.
+Design Elements,283,cropped,shortened or clipped in length.
+Design Elements,109,darts,a decrease/increase along a line which creates shaping.
+Design Elements,142,double breasted,"fastened by overlapping one edge of the front over the other, usually with a double row of buttons."
+Design Elements,290,duplicate stitch,embellishment technique using a second yarn (often of a contrasting color) and tapestry needle to create a design on a piece of fabric by working over existing stitches.
+Design Elements,291,embroidery,surface embellishment worked on the finished piece using a thread/string/yarn and tapestry needle.
+Design Elements,153,empire waist,waist shaping (seamed or not) that falls just under the bustline.
+Design Elements,157,facings,"pieces of material that are folded back & inside, usually at the edges of a garment but sometimes over a seam."
+Design Elements,60,fringe,Decorative edging consisting of lengths of yarn or fabric attached at one end to the work.
+Design Elements,137,front fastening,utilizes some type of closure at the front of a garment or piece.
+Design Elements,131,gathers,small fold or pucker made by gathering fabric together.
+Design Elements,132,hems,An edge finish that consists of a folded back edge that is then fastened down.
+Design Elements,85,hood,A covering for the head and neck.
+Design Elements,144,lined,has a material or fabric that covers all or part of the inner surface of the garment or item.
+Design Elements,95,notched,has a v-shaped cut or indentation.
+Design Elements,156,peplum,"a short flared, ruffled, or gathered, strip attached to the waistline of a garment to create a frill or flounce."
+Design Elements,68,picots,"a series of small, ornamental looped shapes which form a decorate edge or embellishment to fabric."
+Design Elements,145,pleated,
+Design Elements,289,racer back,a back treatment for sleeveless garments which is formed by extra deep armholes or straps that meet at a narrow back.
+Design Elements,133,ruffles,"fabric that is significantly wider at one edge than the opposite edge, resulting in a frilled or flounced appearance."
+Design Elements,138,shoulder fastening,having fastenings on the shoulders.
+Design Elements,143,single breasted,"coat, jacket, cardigan or vest with a single row of buttons.  Front pieces usually only overlap for the width of the button band."
+Design Elements,140,snaps,enclosures or fasteners for a garment that are made up of two pieces that fit into one another and snap together to secure the two pieces of the garment.
+Design Elements,150,straight,without shaping
+Design Elements,66,stripes,Alternating sections of two or more colors or textures.
+Design Elements,148,swing,"an exagerrated, loosely flared shape, usually on a coat or jacket."
+Design Elements,73,tassel / pompom,a dangling decorative trim or adornment consisting of a bunch of cords fastened at one end.
+Design Elements,134,tied,fastened with tied cords/strings.
+Design Elements,111,waist shaping,shaping in the waist area in order to give the garment a  defined waist.
+Design Elements,146,wrap,garment that folds around the body.
+Design Elements,113,zipper,item is fastened or embellished with a zipper.
+Design Elements -> Collar,93,collared,An extra length of fabric that is attached to the neck opening of a garment.
+Design Elements -> Collar,256,mandarin,A short standing collar that is separated by a gap at the front and/or back.  Also called a Nehru collar.
+Design Elements -> Collar,94,peter pan,a small flat collar that is rounded at the front.
+Design Elements -> Collar,255,rolled,a collar or edge treatment to for a neck that is closely rolled and and very short.
+Design Elements -> Collar,96,shawl collar,"a wide, turned-over collar of a garment that combines with lapels forming an unbroken curving line."
+Design Elements -> Collar,99,shirt,short folded collar that opens in the middle and has pointed ends. Sometimes fastens with buttons.
+Design Elements -> Edging,292,crocheted edging,an edge that is added to a piece using a crochet hook.
+Design Elements -> Edging,293,icord edging,"An edge to that is added to fabric (applied either during the construction or after, during finishing) made of a narrow tube worked in stockinette."
+Design Elements -> Edging,294,lace edging,an edge of an item that includes open work in knitted or crocheted lace
+Design Elements -> Edging,295,other edging,
+Design Elements -> Neck,92,ballet neck,"a high, wide scoop neck."
+Design Elements -> Neck,91,boat neck,a neckline created when two rectangles are sewn together (sometimes overlapping) leaving an unshaped opening in the middle.
+Design Elements -> Neck,98,cowl neck,"a loose-fitting, draped, turned-over neckline."
+Design Elements -> Neck,97,crew neck,a round neckline that is close to the neck.
+Design Elements -> Neck,281,funnel neck,a neckline/collar that is worked as an extension of the body and usually extends a short distance.
+Design Elements -> Neck,252,halter,"a neckline with straps, bands, or ties that wrap around and connect at the nape of the neck."
+Design Elements -> Neck,100,henley,"a neckline treatment with a placket (usually buttoned) and round neck, with a band or no collar."
+Design Elements -> Neck,102,keyhole neck,a neckline with a rounded opening which closes at the top.
+Design Elements -> Neck,253,mock turtle,"a tube neck, shorter than a turtleneck, generally with no foldover."
+Design Elements -> Neck,103,scoop neck,a low rounded neckline. aan be almost as short as a crew neck or very deep.
+Design Elements -> Neck,104,square neck,"a neckline that has distinct corners in the front, with parallel side edges."
+Design Elements -> Neck,108,surplice,a cross over necklin which can be constructed as a wrap front garment or as a single front with one layer of the neckline under the other.
+Design Elements -> Neck,105,sweetheart neck,a rounded v-neck which creates a shape like a heart.
+Design Elements -> Neck,106,turtle neck,"a tall rolled or folded collar, which is called turtleneck in the US, polo neck in the UK."
+Design Elements -> Neck,107,v neck,a neckline with straight sides that meet at a pointed bottom.
+Design Elements -> Pocket,83,afterthought pocket,a pocket added after the garment is completed
+Design Elements -> Pocket,78,any pockets,has another type of pocket incorporated into the design not included in the list
+Design Elements -> Pocket,254,hidden / inseam,a pocket in the garment seam that isn't readily visible
+Design Elements -> Pocket,79,patch,a pocket made from a separate piece that's sewn on
+Design Elements -> Pocket,123,set-in,a pocket whose opening is knitted into the body of a garment
+Design Elements -> Pocket,82,tubular,
+Design Elements -> Sleeve,116,3/4 length,a sleeve that ends halfway between the wrist bone and the elbow.
+Design Elements -> Sleeve,114,any sleeves,not sleeveless.
+Design Elements -> Sleeve,279,bracelet length,sleeve ends slightly above the wrist bone.
+Design Elements -> Sleeve,120,cap,a very short sleeve style which covers the top of shoulder and usually has little or no length at the underarm.
+Design Elements -> Sleeve,319,contiguous,a technique where the shoulder seams and sleeve caps of a garment are worked from the top down.
+Design Elements -> Sleeve,280,cuffed,"sleeve has a cuff, fold, or band that serves as the trim or finish to the bottom."
+Design Elements -> Sleeve,125,dolman,a sleeve usually formed integrally with the front and back with a deep armhole starting low on the body; often shaped like a large triangle tapering at the wrist.
+Design Elements -> Sleeve,271,drop,a shoulder seam that extends beyond the natural shoulder edge and usually creates a wider fitting sleeve.
+Design Elements -> Sleeve,118,elbow,sleeve ends at the elbow
+Design Elements -> Sleeve,124,flutter,"a short, loose sleeve that falls in folds over the upper arm."
+Design Elements -> Sleeve,117,long,sleeve ends at the wrist bone or later
+Design Elements -> Sleeve,275,modified drop,a drop sleeve with minimal shaping at the armpit to reduce fabric bulk.
+Design Elements -> Sleeve,128,Nalgar (EZ notation),diagonal armhole shaping running from the underarm to the middle of the sleeve. Reverse shaping to Raglan.
+Design Elements -> Sleeve,278,puffed,"sleeves with extra fullness at the shoulder, generally gathered or pleated at the top of the armhole seam and again in a band at the sleeve bottom."
+Design Elements -> Sleeve,127,raglan,"diagonal armhole shaping, running from the underarm to the neckline."
+Design Elements -> Sleeve,130,saddle shoulder,a sleeve with a narrow strip that extends to the neckline which creates two shoulder seams rather than one.
+Design Elements -> Sleeve,129,set in,armhole shaping like that on a 'traditional' dress or buttondown shirt.  A scooped shape at the underarm extending in a straight line up to the shoulder.
+Design Elements -> Sleeve,119,short,a sleeve that ends above the elbow.
+Design Elements -> Sleeve,121,sleeveless,a garment that is without any sort of sleeve
+Design Elements -> Sleeve,277,tulip,"a sleeve, usually short or cap, consisting of two layers that overlap at the outside of the arm like the shape of petals of a tulip."
+Fabric Characteristics,53,bobble / popcorn / nupp,a set of stitches forming a raised bump
+Fabric Characteristics,320,brioche / tuck stitch,Fabric with tucked stitches (yarn overs that are knitted together with a slipped stitch from the previous row). Such stitches may also be made by knitting into the row below and dropping the stitch above.
+Fabric Characteristics,56,cables,crossing one set of stitches over another
+Fabric Characteristics,57,chevron / flame stitch ,A  stitch pattern that causes the fabric to make zigzags.
+Fabric Characteristics,165,dropped stitches,"knit stitches that are dropped and allowed to unravel producing open, vertical stripes in the fabric"
+Fabric Characteristics,67,elastic,fabric that easily returns to its original shape after being stretched
+Fabric Characteristics,61,eyelets,a fabric that incorporates yarn overs to create a hole used for  either aesthetic or funtional purposes
+Fabric Characteristics,62,lace,a pattern of stable holes that are arranged to create a decorative fabric
+Fabric Characteristics,75,mesh,"a simple, open fabric resembling netting"
+Fabric Characteristics,63,reversible,"Both sides of  the fabric are attractive enough to be considered the ""right"" side"
+Fabric Characteristics,64,ribbed / ribbing,fabric creating a vertically ridged pattern
+Fabric Characteristics,69,ripple,a horizontal undulating wave pattern.
+Fabric Characteristics,298,slipped stitches,"in knitting, stitches moved from one needle to  the other without being worked; in crochet, stitiches used when a crochet stitch doesn't need added height"
+Fabric Characteristics,284,smocked,"fabric gathered at certain locations to bring in, or reduce width or height"
+Fabric Characteristics,70,textured,A mix of stitches providing surface interest
+Fabric Characteristics,297,twisted stitches,Stitches worked so the legs are  crossed
+Regional/Ethnic Styles,217,amigurumi,stuffed animals and anthropomorphic creatures made in a style of crochet and knitting originating in Japan.
+Regional/Ethnic Styles,216,Andean / Peruvian,using construction techniques and/or colorwork motifs derived from Peru and/or the Andean mountains of South America.
+Regional/Ethnic Styles,218,Aran,"a style of work that includes intricate designs using cables, bobbles and other decorative elements that originated in the Aran Islands of Ireland."
+Regional/Ethnic Styles,219,Bavarian,"A style of textured knitting employing twisted stitches, traveling stitches, and narrow cables."
+Regional/Ethnic Styles,221,Cowichan (Salish),"colorwork sweaters, usually featuring distinctive shawl collars and made with bulky yarns and in geometric and bird/animal motifs traditionally done by the Canadian Cowichan First Nations people."
+Regional/Ethnic Styles,222,Danish,regional knitting style from Denmark - textured patterning worked in knits and purls.
+Regional/Ethnic Styles,223,Estonian,"regional style of stranded colorwork or detailed, textured lace from Estonia."
+Regional/Ethnic Styles,269,Fair Isle,"stranded colorwork specific to the Fair Isle and Shetland regions of Scotland using no more than two colors per row, limited color runs, and featuring distictive color banding."
+Regional/Ethnic Styles,224,Faroese,"created with traditional techniques from the Faroe Islands, most often lace shawls with special shaping in the shoulders and a back gusset."
+Regional/Ethnic Styles,225,Finnish / Suomi ,traditional colorwork and lace designs created with techniques and motifs originating in Finland.
+Regional/Ethnic Styles,226,Guernsey / Gansey,"traditional knitting, often of seamans' sweaters, developed on the Channel Island of Guernsey. Sweaters often feature a raised shoulder seam, underam gussets and a split at the hem."
+Regional/Ethnic Styles,227,Icelandic,stranded colorwork or lace patterns (often circular-yoke Lopi sweaters or lace shawls which can be multi-colored) created with traditional Icelandic techniques and motifs.
+Regional/Ethnic Styles,228,Irish,knitting or crochet created with techniques traditionally from Ireland. Often includes richly cabled garments (knitting) or floral/lace motifs (crochet).
+Regional/Ethnic Styles,229,Latvian,"techniques derived from the various regions of the Baltic state of Latvia, often used in mittens"
+Regional/Ethnic Styles,230,Norwegian,"a variety of stranded colorwork, often two colors but sometimes three or more in a single row"
+Regional/Ethnic Styles,231,Orenburg,"very fine geometric lace originating in Orenburg, Russia"
+Regional/Ethnic Styles,232,Sami,created with techniques from the indigenous Sámi people of Scandinavia and European Russia
+Regional/Ethnic Styles,233,Shetland,"very fine, traditional geometric lace or Fair Isle colorwork originating in the Shetland Islands."
+Regional/Ethnic Styles,234,Swedish,"distinct styles of garment shaping and patterning originating in Sweden, including Bohus styes and Tvåändsstickning, or twined knitting."
+Regional/Ethnic Styles,235,Turkish,"created with techniques traditionally from Turkey, often a form of colorwork featuring diagonal lines & geometric patterns"
+Shapes ,247,3 dimensional,"an object that has height, width and depth"
+Shapes ,238,circle,a shape where all the edges are the same distance from a central point
+Shapes ,317,crescent,the shape produced when a circle has a segment of another circle removed from its edge
+Shapes ,249,cube,three dimensional figure made of six squares
+Shapes ,304,half-circle,half of a circle as divided by diameter
+Shapes ,239,hexagon,six-sided shape
+Shapes ,240,octagon,eight-sided shape
+Shapes ,241,oval,egg shaped
+Shapes ,245,pentagon,five-sided shape
+Shapes ,250,pyramid,three dimensional figure made of four triangles
+Shapes ,242,rectangle,"four-sided with opposite sides of equal length, adjacent sides are at 90 degree  angles to each other"
+Shapes ,248,sphere,three dimensional figure all points of which are equidistant from a fixed point
+Shapes ,243,square,"four-sided with all sides of equal length, adjacent sides are at 90 degree angles to  each other"
+Shapes ,251,star,shaped like a star
+Shapes ,244,triangle,three-sided shape
